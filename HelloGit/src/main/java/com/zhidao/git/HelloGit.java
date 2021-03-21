@@ -17,5 +17,7 @@ public class HelloGit {
         System.out.println("other");
         System.out.println("otherother");
         System.out.println("one");
+        System.out.println("分支添加");
+        System.out.println("one的分支添加");
     }
 }
